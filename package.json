@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./test/sample.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chubbsdaweb/portfolio-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chubbsdaweb/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Chubbsdaweb/portfolio-generator#readme"
+}
